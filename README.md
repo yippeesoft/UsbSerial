@@ -1,6 +1,6 @@
 UsbSerial [![Build Status](https://travis-ci.org/felHR85/UsbSerial.svg?branch=master)](https://travis-ci.org/felHR85/UsbSerial) [![](https://jitpack.io/v/felHR85/UsbSerial.svg)](https://jitpack.io/#felHR85/UsbSerial) [![AndroidArsenal](https://img.shields.io/badge/Android%20Arsenal-UsbSerial-green.svg?style=true)](https://android-arsenal.com/details/1/4162) [![Join the chat at https://gitter.im/UsbSerial/Lobby](https://badges.gitter.im/UsbSerial/Lobby.svg)](https://gitter.im/UsbSerial/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
 =========
-
+测试合并2，远程提交。
 UsbSerial wiki available. Read it first
 --------------------------------------
 [**Getting started**](https://github.com/felHR85/UsbSerial/wiki/2.-Getting-Started)\
